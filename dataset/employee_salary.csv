@@ -1,0 +1,11 @@
+emp_id,name,age,gender,department,job_role,experience,salary,location
+101,Rahul,25,Male,IT,Developer,2,45000,Hyderabad
+102,Priya,28,Female,HR,HR_Manager,5,55000,Bangalore
+103,Amit,30,Male,Finance,Analyst,6,60000,Chennai
+104,Sneha,24,Female,IT,Tester,1,35000,Hyderabad
+105,Kiran,32,Male,Marketing,Manager,8,75000,Mumbai
+106,Anjali,27,Female,IT,Developer,4,65000,Bangalore
+107,Vikram,35,Male,Finance,Accountant,10,85000,Hyderabad
+108,Meena,29,Female,HR,Recruiter,6,50000,Chennai
+109,Arjun,26,Male,Marketing,Analyst,3,42000,Mumbai
+110,Divya,31,Female,IT,Manager,9,95000,Hyderabad
