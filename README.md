@@ -51,3 +51,35 @@ The dataset contains 10 employee records with employee ID, name, age, gender, de
 - HiveQL queries
 - Data filtering and aggregation
 - Salary data analysis
+
+## Project Screenshots
+
+### Hadoop Services
+![Hadoop Services](screenshots/hadoop-services.png)
+
+### Hive Database
+![Hive Database](screenshots/hive-database.png)
+
+### Average Salary Analysis
+![Average Salary](screenshots/average-salary.png)
+
+### Department-wise Salary Analysis
+![Department Salary](screenshots/department-salary.png)
+
+### Highest-Paid Employee
+![Highest Paid Employee](screenshots/highest-paid-employee.png)
+
+### Department Employee Count
+![Department Employee Count](screenshots/department-employee-count.png)
+
+### Employees Earning Above 50000
+![Employees Above 50000](screenshots/employees-above-50000.png)
+
+### Experience-wise Salary
+![Experience Salary](screenshots/experience-salary.png)
+
+### Minimum and Maximum Salary
+![Min Max Salary](screenshots/min-max-salary.png)
+
+### Total Salary Expense
+![Total Salary Expense](screenshots/total-salary-expense.png)
